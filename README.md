@@ -3,7 +3,7 @@
 
 -🎓 Estudante de Ciência da Computação   
 -📚🎶 Apaixonado por Livros e Música   
--💻 Aprendendo sobre Desenvolvimento Web
+-💻 Aprendendo sobre Desenvolvimento Web   
 
 <div align="center">
   <a href="https://github.com/rodsgx">

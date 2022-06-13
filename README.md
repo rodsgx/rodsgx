@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Rodrigo Souza
 
-
 -🎓 Estudante de Ciência da Computação   
 -📚🎶 Apaixonado por Livros e Música   
 -💻 Aprendendo sobre Desenvolvimento Web   

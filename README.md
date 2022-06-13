@@ -5,6 +5,7 @@
 -📚🎶 Apaixonado por Livros e Música   
 -💻 Aprendendo sobre Desenvolvimento Web
 
+
 <div align="center">
   <a href="https://github.com/rodsgx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodsgx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>

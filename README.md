@@ -11,4 +11,3 @@
 </div>
 
 ![Snake animation](https://github.com/ellen2121/rodsgx/blob/output/github-contribution-grid-snake.svg)
-
